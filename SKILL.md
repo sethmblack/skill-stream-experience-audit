@@ -4,7 +4,8 @@ description: Analyze how users or teams actually experience a system, process, o
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5085
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - stream-experience-audit
